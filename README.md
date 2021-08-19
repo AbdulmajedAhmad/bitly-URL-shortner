@@ -1,4 +1,4 @@
-# bitly-URL-shortner
+# Bitly URL shortner
 A script to automate making short URLs using bit.ly
 
 ## Usage
@@ -9,4 +9,5 @@ A script to automate making short URLs using bit.ly
   - Python 3
   - pyshorteners
   - pyperclip
-     pip install pyshorteners, pyperclip
+     ''' pip install pyshorteners, pyperclip '''
+  - Make an account in bit.ly, then put your token in the script.. 
