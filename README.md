@@ -9,3 +9,4 @@ A script to automate making short URLs using bit.ly
   - Python 3
   - pyshorteners
   - pyperclip
+     pip install pyshorteners, pyperclip
