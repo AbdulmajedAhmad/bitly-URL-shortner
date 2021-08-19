@@ -1,6 +1,6 @@
 import pyshorteners, sys, pyperclip
 
-TOKEN = "85555c15223b53d4856f4875f92b4d38db33d049"
+TOKEN = "PASTE YOUR TOKEN HERE"
 
 if len(sys.argv) > 1: url = sys.argv[-1]
 else: url = pyperclip.paste()
